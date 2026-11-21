@@ -27,7 +27,7 @@
 
         <!-- Title -->
         <com.google.android.material.textfield.TextInputLayout
-            style="@style/Widget.PointMate.TextInputLayout"
+            style="@style/Widget.AppointMe.TextInputLayout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
@@ -42,7 +42,7 @@
 
         <!-- Location -->
         <com.google.android.material.textfield.TextInputLayout
-            style="@style/Widget.PointMate.TextInputLayout"
+            style="@style/Widget.AppointMe.TextInputLayout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -121,7 +121,7 @@
 
         <!-- Notes -->
         <com.google.android.material.textfield.TextInputLayout
-            style="@style/Widget.PointMate.TextInputLayout"
+            style="@style/Widget.AppointMe.TextInputLayout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -201,7 +201,7 @@
 
         <Button
             android:id="@+id/btnCancel"
-            style="@style/Widget.PointMate.Button.Outlined"
+            style="@style/Widget.AppointMe.Button.Outlined"
             android:layout_width="match_parent"
             android:layout_height="56dp"
             android:layout_marginTop="12dp"

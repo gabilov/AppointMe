@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PointMate</string>
+    <string name="app_name">AppointMe</string>
 
     <!-- Onboarding -->
     <string name="onboarding_title">Manage Your Time</string>
