@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppointMe</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">Manage Your Time</string>
+    <string name="onboarding_subtitle">Schedule appointments, set reminders, and never miss an important meeting again.</string>
+    <string name="get_started">Get Started</string>
+    <string name="already_have_account">I already have an account</string>
+
+    <!-- Login -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_account">Don\'t have an account?  Sign up</string>
+
+    <!-- Register -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Join us today</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="agree_terms">I agree to the Terms &amp; Privacy Policy</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="have_account">Already have an account?  Log in</string>
+
+    <!-- Forgot Password -->
+    <string name="forgot_password_title">Reset Password</string>
+    <string name="forgot_password_subtitle">Enter your email and we\'ll send you a reset link</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="reset_link_sent">Reset link sent (simulated)</string>
+
+    <!-- Main / Dashboard -->
+    <string name="greeting">Hi, %1$s</string>
+    <string name="today_date">%1$s</string>
+    <string name="next_appointment">Next Appointment</string>
+    <string name="no_upcoming">No upcoming appointments</string>
+    <string name="new_appointment">New Appointment</string>
+    <string name="my_appointments">My Appointments</string>
+    <string name="calendar">Calendar</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+
+    <!-- Appointment List -->
+    <string name="appointments_title">My Appointments</string>
+    <string name="filter_all">All</string>
+    <string name="filter_upcoming">Upcoming</string>
+    <string name="filter_past">Past</string>
+    <string name="no_appointments">No appointments found</string>
+
+    <!-- Appointment Edit -->
+    <string name="create_appointment">Create Appointment</string>
+    <string name="edit_appointment">Edit Appointment</string>
+    <string name="title">Title</string>
+    <string name="location">Location</string>
+    <string name="location_optional">Location (optional)</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="notes">Notes</string>
+    <string name="notes_optional">Notes (optional)</string>
+    <string name="add_to_calendar">Add to device calendar</string>
+    <string name="enable_reminders">Enable reminders</string>
+    <string name="reminder_time">Reminder time</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="appointment_saved">Appointment saved</string>
+
+    <!-- Appointment Detail -->
+    <string name="appointment_details">Appointment Details</string>
+    <string name="status">Status</string>
+    <string name="reminder">Reminder</string>
+    <string name="no_reminder">No reminder</string>
+    <string name="reminder_before">%1$s before</string>
+    <string name="edit">Edit</string>
+    <string name="cancel_appointment">Cancel Appointment</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="open_in_map">Open in Map</string>
+    <string name="appointment_cancelled">Appointment cancelled</string>
+    <string name="appointment_deleted">Appointment deleted</string>
+    <string name="not_specified">Not specified</string>
+
+    <!-- Calendar -->
+    <string name="calendar_title">Calendar</string>
+    <string name="events_on_day">Events on this day</string>
+    <string name="no_events">No events on this day</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Profile</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="phone_optional">Phone (optional)</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="notifications_settings">Notifications &amp; Settings</string>
+    <string name="logout">Logout</string>
+    <string name="profile_saved">Profile saved</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="notification_preferences">Notification Preferences</string>
+    <string name="upcoming_notifications">Upcoming appointments notifications</string>
+    <string name="daily_summary">Daily summary notification</string>
+    <string name="default_reminder">Default reminder time</string>
+    <string name="settings_saved">Settings saved</string>
+
+    <!-- Reminder options -->
+    <string name="reminder_none">None</string>
+    <string name="reminder_10min">10 minutes</string>
+    <string name="reminder_30min">30 minutes</string>
+    <string name="reminder_1hour">1 hour</string>
+    <string name="reminder_1day">1 day</string>
+
+    <!-- Status -->
+    <string name="status_upcoming">Upcoming</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_cancelled">Cancelled</string>
+    <string name="status_late">Late</string>
+
+    <!-- Validation -->
+    <string name="error_empty_email">Please enter your email</string>
+    <string name="error_invalid_email">Please enter a valid email</string>
+    <string name="error_empty_password">Please enter your password</string>
+    <string name="error_short_password">Password must be at least 6 characters</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_empty_name">Please enter your name</string>
+    <string name="error_accept_terms">Please accept the Terms &amp; Privacy Policy</string>
+    <string name="error_empty_title">Please enter a title</string>
+
+    <!-- Misc -->
+    <string name="appointment">Appointment</string>
+    <string name="task">Task</string>
+</resources>
