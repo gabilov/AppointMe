@@ -1,4 +1,4 @@
-# PointMate 📅
+# AppointMe 📅
 
 **A native Android app for scheduling and managing appointments, with reminders, a calendar view and a clean Material design.**
 
@@ -56,7 +56,7 @@ Kotlin · Android SDK (min 24, target 36) · XML layouts · Material Components 
 ## Run it locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/gabilov/PointMate.git
+   git clone https://github.com/gabilov/AppointMe.git
    ```
 2. Open the folder in **Android Studio**.
 3. Run it on an emulator or a phone with Android 7.0 or newer.
