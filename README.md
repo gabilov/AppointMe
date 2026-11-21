@@ -4,7 +4,7 @@
 
 Built in Kotlin with XML layouts as a mobile programming course project at Baku Engineering University.
 
-**⬇️ [Download the APK](../../releases/latest)** · [Presentation (PPTX)](docs/PointMate%20App%20Presentation.pptx)
+**⬇️ [Download the APK](../../releases/latest)**
 
 ---
 
